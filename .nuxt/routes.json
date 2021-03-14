@@ -1,0 +1,51 @@
+[
+  {
+    "name": "contactos",
+    "path": "/contactos",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\contactos.vue",
+    "chunkName": "pages/contactos",
+    "_name": "_7fc03733"
+  },
+  {
+    "name": "dados",
+    "path": "/dados",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\dados.vue",
+    "chunkName": "pages/dados",
+    "_name": "_a0d5de4c"
+  },
+  {
+    "name": "encomendar",
+    "path": "/encomendar",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\encomendar.vue",
+    "chunkName": "pages/encomendar",
+    "_name": "_47caf816"
+  },
+  {
+    "name": "produtos",
+    "path": "/produtos",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\produtos.vue",
+    "chunkName": "pages/produtos",
+    "_name": "_4e3ffabb"
+  },
+  {
+    "name": "promocoes",
+    "path": "/promocoes",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\promocoes.vue",
+    "chunkName": "pages/promocoes",
+    "_name": "_c6e4eb50"
+  },
+  {
+    "name": "sobre-nos",
+    "path": "/sobre-nos",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\sobre-nos.vue",
+    "chunkName": "pages/sobre-nos",
+    "_name": "_a25b8526"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Marquerere\\\\Desktop\\\\Projetos\\\\carnes-gadelho\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6adefafe"
+  }
+]
